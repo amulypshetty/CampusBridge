@@ -1,4 +1,4 @@
-#CampusBridge
+CampusBridge
 
 Objective:
 
